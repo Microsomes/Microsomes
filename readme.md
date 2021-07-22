@@ -1,10 +1,31 @@
-hello my name is tayyab
+# Hi My Name is Tayyab...
+
+> I am ready to help you with your next solution, heres some of the previous solutions i have done for some of the
+> clients/companies i've worked for.
+
+# A bit about me
+Ego ga Karia Maska
+
+# Commercial Projects
+1. Cake Editor 
+2. Inventory Management
+3. Timesheet/Employee Enrollment System
+4. Factory Order Fullfillment System and Tracking
+5. Mosque App, Prayer Tracking, Quran Reader and Online Notifications
+
+## Favourite Programming Languages (in order)
+1. Node.JS (5 Years)
+2. PHP (5 Years)
+3. GOLANG (2 Years)
+4. DART (2 Years)
+5. .NET (2 Years)
+
+## Front End Frameworks
+1. VUE JS
 
 
-Hi my name is Tayyab...
 
-I am ready to help you with your next solution, heres some of the previous solutions i have done for some of the
-clients/companies i've worked for.
+###WORK IN PROGRESS BELOW
 
 solutions made (Commercial)
 • Cake Editor (Bakerdays)- https://upbeat-curie-5573c6.netlify.app/?test=dd
