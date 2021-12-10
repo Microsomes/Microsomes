@@ -6,6 +6,12 @@
 # A bit about me
 Ego ga Karia Maska
 
+#add image screenshot.png
+
+![Alt text](screenshot.png "Optional Title")
+
+
+
 # Commercial Projects
 1. Cake Editor 
 2. Inventory Management
