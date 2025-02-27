@@ -1,4 +1,4 @@
-# Hi My Name is Tayyab...
+# Hi My Name is ★Tayyab Javed★
 
 # A bit about me
 Hi there, my name is Tayyab Javed, and I'm a Senior Software Developer based in Birmingham, UK. I have extensive experience in developing, deploying, and managing web applications, and I have a diverse technical skill set that includes programming languages such as PHP, GO, HTML, CSS/Tailwind CSS/SQL, JavaScript, and frameworks such as Laravel, React, Flutter, React Native, Typescript Graph QL, Zend Framework, Node.js, Vue JS, Flutter, MongoDB, Firebase, MySQL, Redis, Apache Kafka, Solidity, GIT, Puppeteer.
